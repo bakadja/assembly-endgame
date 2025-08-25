@@ -53,6 +53,8 @@ Assembly: Endgame is an interactive word-guessing game built with React and Vite
 
 ![Demo GIF](preview_endgame.gif)
 
+🚀 [Start playing now!](https://endgame.kevinngongang.dev)
+
 ## Installation
 
 ### Prerequisites
@@ -204,6 +206,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Ready to save the programming world?** 🚀 [Start playing now!](https://)
+**Ready to save the programming world?** 🚀 [Start playing now!](https://endgame.kevinngongang.dev)
 
 *Built with ❤️ and lots of ☕ by developers who love word games*
